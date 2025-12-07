@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "role": "superadmin",
+      "name": "مدیر اصلی"
+    },
+    {
+      "username": "manager",
+      "password": "manager",
+      "role": "manager",
+      "name": "مدیر مدرسه"
+    },
+    {
+      "username": "nazem1",
+      "password": "nazem1",
+      "role": "nazem",
+      "name": "ناظم مدرسه"
+    },
+    {
+      "username": "nazem2",
+      "password": "nazem2",
+      "role": "nazem-teacher",
+      "name": "ناظم و معلم مطالعات"
+    },
+    {
+      "username": "teacher1",
+      "password": "teacher1",
+      "role": "teacher",
+      "name": "معلم ریاضی"
+    },
+    {
+      "username": "student1",
+      "password": "student1",
+      "role": "student",
+      "name": "دانش آموز ۱"
+    }
+  ]
+}
